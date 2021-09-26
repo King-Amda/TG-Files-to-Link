@@ -10,7 +10,7 @@ A Telegram bot that can stream Telegram files to users over HTTP.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/TG-Files-to-Link/tree/Merging)
 
 ### Get String Sesson
-[![Run](https://img.shields.io/badge/Run%20Online-Black)](https://generatestringsession.tgexplore.repl.run/)
+[![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://generatestringsession.tgexplore.repl.run/)
 
 
 ### Environment variables
