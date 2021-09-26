@@ -1,7 +1,8 @@
 # Telegram File To Link Generation Bot
 A Telegram bot that can stream Telegram files to users over HTTP.
 
-## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
+
+# Diploy
 
 ### With Bot Token & Session String
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/TG-Files-to-Link)
@@ -32,5 +33,11 @@ A Telegram bot that can stream Telegram files to users over HTTP.
 
 ## Special Credits
 
-[Orginal Repo Owner](https://github.com/tulir/tgfilestream)
+[Orginal Repo Owner](https://github.com/tulir/tgfilestream)<br><br>
+![Repo Owner](https://github.com/tulir.png?size=100px)
+
+## Report Any Bug
+
+[King Amda](https://t.me/KingAmdaContactBot)<br><br>
+![King Amda](https://github.com/King-Amda.png?size=100px)
 
