@@ -6,14 +6,14 @@
    "telegram",
    "FiletoLinkBot"
   ],
- "repository": "https://github.com/Mahesh0253/TG-Files-to-Link",
+ "repository": "https://github.com/King-Amda/TG-Files-to-Link",
  "env": {
    "TG_API_ID": {
-      "description": "Your Telegram API ID. Get this value from my.telegram.org!",
+      "description": "Your Telegram API ID. Get this value from my.telegram.org Or @s4h_api_idbot",
       "value": ""
   },
    "TG_API_HASH": {
-      "description": " Your Telegram API hash. Get this value from my.telegram.org!",
+      "description": " Your Telegram API hash. Get this value from my.telegram.org Or @s4h_api_idbot",
       "value": ""
   },
    "TG_SESSION_NAME": {
