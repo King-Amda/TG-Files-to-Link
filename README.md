@@ -9,7 +9,9 @@ A Telegram bot that can stream Telegram files to users over HTTP.
 ### Without Session String
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/TG-Files-to-Link/tree/Merging)
 
-Watch our YouTube video for more details - [How To Create Your Own Telegram File To Link Generation Bot](http://www.youtube.com/watch?v=H-bEuLjwdfY)
+### Get String Sesson
+[![Run](https://img.shields.io/badge/Run%20Online-Black)](https://generatestringsession.tgexplore.repl.run/)
+
 
 ### Environment variables
 * `TG_API_ID` (required) - Your Telegram API ID.
@@ -26,14 +28,7 @@ Watch our YouTube video for more details - [How To Create Your Own Telegram File
 * `CONNECTION_LIMIT` (default 20) - The maximum number of connections to a single Telegram datacenter.
 * `TG_START_MESG` - The message that should be shown in Telegram chat, in case of non-media message.
 
-## How to get TG_SESSION_NAME string
 
-   Run Console in Heroku `python3 GenerateStringSession.py` and follow.
-   * Note: When it will ask for Phone Number and Bot token Give `Bot token` value
-   
-### OR use online terminal
-
-[![Run](https://img.shields.io/badge/Run%20Online-Black)](https://generatestringsession.tgexplore.repl.run/)
 
 ## Special Credits
 
